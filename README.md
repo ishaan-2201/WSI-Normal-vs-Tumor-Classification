@@ -18,7 +18,7 @@ This project aims to classify Whole Slide Images (WSIs) from the TCGA (The Cance
 
 3. **Dataset Split**
 
-   - Used `dataset_splitter.py` to split into:
+   - Used `Split_Dataset.ipynb` to split into:
      - 70% training
      - 15% validation
      - 15% testing
